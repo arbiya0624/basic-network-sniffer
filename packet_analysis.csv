@@ -1,0 +1,4 @@
+Packet Number,Source IP,Destination IP,Protocol,Source Port,Destination Port,Packet Length
+1,192.168.1.10,192.168.1.20,TCP,12345,80,52
+2,192.168.1.10,8.8.8.8,UDP,54321,53,39
+3,192.168.1.10,8.8.8.8,ICMP,-,-,28
